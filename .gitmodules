@@ -1,0 +1,3 @@
+[submodule "Computer Science"]
+	path = Computer Science
+	url = git@github.com:the-bookshelf/cs-programming.git
