@@ -1,3 +1,12 @@
 [submodule "Computer Science"]
 	path = Computer Science
 	url = git@github.com:the-bookshelf/computer-science.git
+[submodule "Misc"]
+	path = Misc
+	url = git@github.com:the-bookshelf/misc.git
+[submodule "Literature\\Kindle Library"]
+	path = Literature\\Kindle Library
+	url = git@github.com:the-bookshelf/literature-kindle.git
+[submodule "Literature\\Ebook Library"]
+	path = Literature\\Ebook Library
+	url = git@github.com:the-bookshelf/literature-epub.git
